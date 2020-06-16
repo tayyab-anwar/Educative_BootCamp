@@ -1,0 +1,31 @@
+ul {
+  list-style: none;
+   padding: 10px;
+}
+
+li {
+    padding: 5px;
+}
+
+hr {
+    height: 1000px;
+    width: 0%;
+}
+
+h3{
+    text-align: center;
+}
+
+#Line {
+    width: 100px;
+    border-left: 3px  black;
+    height: 100%;
+}
+
+#linkedListContainor {
+    width: 80%;
+}
+
+#MainContainer {
+   display: flex;
+}
